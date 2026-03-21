@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Kris Stokes
 
-<!--
-**krisstokes18/Krisstokes18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+IT Support professional transitioning into cybersecurity, with hands-on experience resolving 300+ technical support cases monthly at Comcast and independent SOC-focused lab work.
 
-Here are some ideas to get you started:
+## Certifications
+- CompTIA Security+
+- CompTIA Network+
+- Microsoft AZ-900
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tools & Skills
+- Splunk | Log Analysis | SIEM
+- Python | Bash
+- Windows Administration | Microsoft 365 | Microsoft Entra ID
+- TCP/IP | DNS | DHCP | Network Troubleshooting
+- Identity & Access Management | MFA | Endpoint Troubleshooting
+
+## Projects
+- Coming soon
+
+## Connect
+- LinkedIn: https://www.linkedin.com/in/kris-stokes-it/
