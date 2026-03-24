@@ -15,7 +15,9 @@ IT Support professional transitioning into cybersecurity, with hands-on experien
 - Identity & Access Management | MFA | Endpoint Troubleshooting
 
 ## Projects
-- Coming soon
+- [Python Log Analyzer](https://github.com/krisstokes18/Python-Log-Analyzer) — CLI tool that parses auth logs to surface failed login patterns and top IPs
+- [Splunk SIEM Investigation](https://github.com/krisstokes18/Splunk-SIEM-Investigation) — In progress
+- [Active Directory Home Lab](https://github.com/krisstokes18/Active-Directory-Home-lab) — In progress
 
 ## Connect
 - LinkedIn: https://www.linkedin.com/in/kris-stokes-it/
