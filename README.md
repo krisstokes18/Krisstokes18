@@ -27,9 +27,9 @@ user provisioning, account lockouts, password resets, and
 security group management using Active Directory Domain Services.
 Tools: Windows Server · Active Directory · IAM · Command Line
 
-** [ServiceNow Ticketing Lab](https://github.com/krisstokes18/ServiceNow-Ticketing-Lab)**
-ITSM lab simulating ticket triage, incident management, 
-and resolution workflows in ServiceNow
+**[ServiceNow Ticketing Lab](https://github.com/krisstokes18/ServiceNow-Ticketing-Lab)** 
+ITSM lab simulating ticket triage, incident management, and resolution workflows in ServiceNow. 
+Tools: ServiceNow · ITSM · Incident Management · Help Desk Operations
 
 **[Splunk SIEM Investigation](https://github.com/krisstokes18/Splunk-SIEM-Investigation)**
 Detection and investigation lab using Splunk SPL to identify 
