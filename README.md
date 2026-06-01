@@ -31,6 +31,10 @@ Tools: Windows Server · Active Directory · IAM · Command Line
 ServiceNow and Jira Service Management lab simulating ticket triage, incident management, and resolution workflows
 Tools: ServiceNow · ITSM · Incident Management · Help Desk Operations
 
+**[M365 Admin Lab](https://github.com/krisstokes18/M365-Admin-Lab)**
+Microsoft 365 administration lab covering Entra ID, Exchange Online, Teams, Conditional Access, and Defender using a Business Standard tenant with Entra ID P1
+Tools: Microsoft 365 · Entra ID · Exchange Online · Conditional Access · Defender · IAM
+
 **[Splunk SIEM Investigation](https://github.com/krisstokes18/Splunk-SIEM-Investigation)**
 Detection and investigation lab using Splunk SPL to identify 
 failed login patterns and surface suspicious IPs.
